@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/bgr.png</file>
+        <file>resource/modify.png</file>
+        <file>resource/save.png</file>
+        <file>resource/trash.png</file>
+        <file>resource/reorder.png</file>
+    </qresource>
+</RCC>

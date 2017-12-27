@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContactDelegate.qml</file>
+        <file>Toast.qml</file>
+        <file>DragDelegate.qml</file>
+    </qresource>
+</RCC>
